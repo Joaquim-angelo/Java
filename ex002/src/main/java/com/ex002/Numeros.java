@@ -17,5 +17,8 @@ public class Numeros {
         /*depois do nome colocamos a quantidade de casas decimais*/
         System.out.printf("Sua altura é: %.1f",altura);
         System.out.println("\nnumero double: "+numero);
+        /*Números Booleanos*/
+        boolean java=true;
+        System.out.println("Estou programando em Java? "+java);
     }
 }
