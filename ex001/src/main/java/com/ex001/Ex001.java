@@ -1,16 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
+/*declara pacote*/
 package com.ex001;
-
-/**
- *
- * @author Joaquim
- */
+/*declarar classe publica criada pelo usuário*/
 public class Ex001 {
-
-    public static void main(String[] args) {
+    /*declarar o método main que será estático e vazio*/
+    /*seu parâmetro será um vetor String que chamaremos de args*/
+    public static void main(String[] args){
+        /*comando de impressão para qualquer aparelho*/
         System.out.println("Hello World!");
     }
 }
