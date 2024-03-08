@@ -1,3 +1,4 @@
+/*Herança: essa classe será herdada para Aluno e Professor*/
 package com.ex030;
 import java.util.Date;
 public class Pessoa {
