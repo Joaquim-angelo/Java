@@ -1,5 +1,6 @@
 /*Superclasse*/
 package com.ex034;
+/*Para usar o super() a classe precisa ser abstrata*/
 public abstract class Pessoa {
         protected String telefone;
         protected String nomePessoa;

@@ -1,5 +1,6 @@
 package com.ex035;
 public class Cachorro extends Animal {
+    /*Get e Set no construtor usando Super()*/
     public Cachorro(String n, int id) {
         super.setNome(n);
         super.setIdade(id);   

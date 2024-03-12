@@ -1,3 +1,4 @@
+/*Programa mais completo usando herança, poliformismo, getter e setter*/
 package com.ex035;
 abstract public class Animal {
     private String nome;
