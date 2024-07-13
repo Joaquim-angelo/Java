@@ -8,6 +8,6 @@ public class Data {
         //Hora do dia
         System.out.println(data.getHours());
         //Mês do Ano
-        System.out.println(data.getMonth());
+        System.out.println(data.getMonth()+1);
     }
 }

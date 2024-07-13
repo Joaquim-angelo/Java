@@ -2,7 +2,7 @@ package ex045;
 import java.util.Calendar;
 public class Calendario {
     public static void main(String[] args) {
-        Calendar calendario= Calendar.getInstance();
+        Calendar calendario=Calendar.getInstance();
 
         System.out.println(calendario.get(Calendar.DAY_OF_WEEK)+"° dia da Semana: ");
         System.out.println(calendario.get(Calendar.DAY_OF_MONTH)+"° dia do Mês: ");
